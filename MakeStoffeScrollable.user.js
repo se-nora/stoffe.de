@@ -7,6 +7,8 @@
 // @match        https://www.stoffe.de/*
 // @grant        none
 // @icon         https://www.stoffe.de/on/demandware.static/Sites-Stoffe_DE-Site/-/default/dw365490fe/images/favicons/stoffede-favicon-32x32.png
+// @updateURL    https://github.com/se-nora/stoffe.de/blob/main/MakeStoffeScrollable.user.js
+// @downloadURL  https://github.com/se-nora/stoffe.de/blob/main/MakeStoffeScrollable.user.js
 // ==/UserScript==
 
 (function() {
